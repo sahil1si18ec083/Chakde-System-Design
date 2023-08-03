@@ -1,4 +1,5 @@
-Two tier Architecture 
+#Two tier Architecture 
+
 ![image](https://github.com/sahil1si18ec083/Chakde-System-Design/assets/103936307/5957d7ff-ab8b-414c-937c-a5f9484c327b)
 The user is interacting with the client and client sends a request to server and server sends back a response. 
 Api is responsible for that interaction between server and client
